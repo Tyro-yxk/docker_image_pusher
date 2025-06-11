@@ -1,2 +1,1 @@
-homeassistant/home-assistant
-dlandon/zoneminder
+xhofe/alist:v3.44.0
